@@ -50,7 +50,7 @@ public class HomeMain extends AppCompatActivity implements OnClickListener{
 
         switch (view.getId()){
             case R.id.ediable:
-                intent = new Intent(this, Add.class);
+                intent = new Intent(this, Ediable.class);
                 startActivity(intent);
                 break;
 
