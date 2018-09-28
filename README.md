@@ -1,2 +1,0 @@
-# Shamu
-mushroom
