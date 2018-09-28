@@ -8,4 +8,11 @@
     tools:context="com.example.deadpool.mushroom.Ediable"
     tools:showIn="@layout/app_bar_ediable">
 
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </ListView>
+
 </android.support.constraint.ConstraintLayout>
